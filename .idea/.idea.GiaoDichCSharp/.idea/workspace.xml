@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b8c9c0a-6de9-473f-ac68-245d6937739e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+              <folding>
+                <marker date="1563771586693" expanded="true" signature="6:97" ph="..." />
+                <marker date="1563771586693" expanded="true" signature="123:2689" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="143:2687" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="310:1626" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="345:1616" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="820:1208" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="1241:1326" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="1446:1602" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="1698:2681" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="1733:2671" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="2130:2539" ph="{...}" />
+                <marker date="1563771586693" expanded="true" signature="2572:2657" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding>
+                <marker date="1563770468746" expanded="true" signature="31:437" ph="{...}" />
+                <marker date="1563770468746" expanded="true" signature="61:435" ph="{...}" />
+                <marker date="1563770468746" expanded="true" signature="280:300" ph="{...}" />
+                <marker date="1563770468746" expanded="true" signature="343:429" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <marker date="1563770468094" expanded="true" signature="31:747" ph="{...}" />
+                <marker date="1563770468094" expanded="true" signature="72:745" ph="{...}" />
+                <marker date="1563770468094" expanded="true" signature="510:607" ph="{...}" />
+                <marker date="1563770468094" expanded="true" signature="643:739" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+              <folding>
+                <marker date="1563531008190" expanded="true" signature="31:815" ph="{...}" />
+                <marker date="1563531008190" expanded="true" signature="65:813" ph="{...}" />
+                <marker date="1563531008190" expanded="true" signature="568:665" ph="{...}" />
+                <marker date="1563531008190" expanded="true" signature="711:807" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichSHB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="962">
+              <caret line="116" column="13" lean-forward="true" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+              <folding>
+                <marker date="1563767152076" expanded="false" signature="6:70" ph="..." />
+                <marker date="1563767152076" expanded="true" signature="101:6023" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="143:6021" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="233:296" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="326:1684" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="480:593" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="776:881" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="943:1503" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="1586:1674" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="1715:2784" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="1869:1982" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="2044:2603" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="2686:2774" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="2819:4924" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="3073:3214" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="3539:3652" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="3835:3971" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="4033:4627" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="4705:4793" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="4810:4914" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="4961:5757" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="5359:5469" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="5543:5745" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="5789:6015" ph="{...}" />
+                <marker date="1563767152076" expanded="true" signature="5852:6003" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichBlockChain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+              <folding>
+                <marker date="1563771586745" expanded="true" signature="6:70" ph="..." />
+                <marker date="1563771586745" expanded="true" signature="101:5669" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="150:5667" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="254:324" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="354:1648" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="508:621" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="792:897" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="966:1467" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="1550:1638" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="1679:2696" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="1833:1946" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="2015:2515" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="2598:2686" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="2731:4580" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="2967:3108" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="3324:3437" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="3608:3744" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="3813:4283" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="4361:4449" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="4466:4570" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="4617:5428" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="5046:5156" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="5237:5416" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="5460:5661" ph="{...}" />
+                <marker date="1563771586745" expanded="true" signature="5528:5649" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/BlockchainAddressModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1458">
+              <caret line="141" column="62" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
+              <folding>
+                <marker date="1563771757600" expanded="true" signature="6:72" ph="..." />
+                <marker date="1563771757600" expanded="true" signature="104:9797" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="146:9795" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="247:1073" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="689:980" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="778:965" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="1135:1702" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="1813:5014" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="1956:4772" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="2338:2444" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="2627:2738" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="2827:2921" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="3008:3102" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="4598:4726" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="4804:4934" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="5129:8996" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="5272:8750" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="5654:5760" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="5853:5964" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="6782:6890" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="8546:8674" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="8782:8874" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="8894:8986" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="9060:9789" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="9405:9696" ph="{...}" />
+                <marker date="1563771757600" expanded="true" signature="9494:9681" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/SHBAccountModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1875">
+              <caret line="127" column="38" selection-end-line="192" selection-end-column="1" />
+              <folding>
+                <marker date="1563767902638" expanded="true" signature="6:72" ph="..." />
+                <marker date="1563767902638" expanded="true" signature="104:10243" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="139:10241" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="231:1071" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="648:985" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="723:970" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="1119:1770" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="1867:5220" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="2010:4978" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="2409:2515" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="2691:2802" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="2884:2978" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="3058:3152" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="4804:4932" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="5010:5140" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="5321:9395" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="5464:9149" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="5863:5969" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="6062:6173" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="7025:7133" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="8945:9073" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="9181:9273" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="9293:9385" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="9464:10235" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="9812:10149" ph="{...}" />
+                <marker date="1563767902638" expanded="true" signature="9887:10134" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichBlockChain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichSHB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDich.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/model/BlockchainAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/model/SHBAccountModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/BanGhiGiaoDich.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/GiaoDichBlockChain.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/TaiKhoan.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/model/ModelTaiKhoan.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/AccountSHB.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/TransactionSHB.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/controller/AccountSHBController.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/model/AccountSHBModel.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/SHBTransaction.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/model/SHBAccountModel.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/Account.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/SHBAccount.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainAddress.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainTransaction.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/Program.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichBlockChain.cs" />
+        <option value="$PROJECT_DIR$/GiaoDichCSharp/model/BlockchainAddressModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="demo" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="entity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GiaoDichCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/GiaoDichCSharp/bin/Debug/netcoreapp2.2/GiaoDichCSharp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GiaoDichCSharp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GiaoDichCSharp/GiaoDichCSharp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8c9c0a-6de9-473f-ac68-245d6937739e" name="Default Changelist" comment="" />
+      <created>1563355989011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563355989011</updated>
+      <workItem from="1563355990440" duration="4021000" />
+      <workItem from="1563444694706" duration="1993000" />
+      <workItem from="1563499421412" duration="8263000" />
+      <workItem from="1563518821315" duration="13796000" />
+      <workItem from="1563758372589" duration="13025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41098000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23876593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24305555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32986626" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23876593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24305555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32986626" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/ModelTaiKhoan.cs" />
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BanGhiGiaoDich.cs" />
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDich.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1563358436439" expanded="true" signature="29:173" ph="{...}" />
+            <marker date="1563358436439" expanded="true" signature="61:171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/AccountSHB.cs" />
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/controller/AccountSHBController.cs" />
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/TaiKhoan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/AccountSHBModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="126" column="15" selection-start-line="123" selection-start-column="14" selection-end-line="126" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/TransactionSHB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="6" selection-start-column="7" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/GiaoDichCSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-column="33" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <marker date="1563764268503" expanded="true" signature="6:48" ph="..." />
+            <marker date="1563764268503" expanded="true" signature="80:1093" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="116:1091" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="429:854" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="476:682" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="748:812" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="896:1085" ph="{...}" />
+            <marker date="1563764268503" expanded="true" signature="990:1042" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/Account.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <marker date="1563769712540" expanded="true" signature="31:283" ph="{...}" />
+            <marker date="1563769712540" expanded="true" signature="69:281" ph="{...}" />
+            <marker date="1563769712540" expanded="true" signature="246:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/SHBAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="127" column="38" selection-end-line="192" selection-end-column="1" />
+          <folding>
+            <marker date="1563767902638" expanded="true" signature="6:72" ph="..." />
+            <marker date="1563767902638" expanded="true" signature="104:10243" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="139:10241" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="231:1071" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="648:985" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="723:970" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="1119:1770" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="1867:5220" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="2010:4978" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="2409:2515" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="2691:2802" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="2884:2978" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="3058:3152" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="4804:4932" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="5010:5140" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="5321:9395" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="5464:9149" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="5863:5969" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="6062:6173" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="7025:7133" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="8945:9073" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="9181:9273" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="9293:9385" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="9464:10235" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="9812:10149" ph="{...}" />
+            <marker date="1563767902638" expanded="true" signature="9887:10134" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <marker date="1563770468746" expanded="true" signature="31:437" ph="{...}" />
+            <marker date="1563770468746" expanded="true" signature="61:435" ph="{...}" />
+            <marker date="1563770468746" expanded="true" signature="280:300" ph="{...}" />
+            <marker date="1563770468746" expanded="true" signature="343:429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/SHBTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1563531008190" expanded="true" signature="31:815" ph="{...}" />
+            <marker date="1563531008190" expanded="true" signature="65:813" ph="{...}" />
+            <marker date="1563531008190" expanded="true" signature="568:665" ph="{...}" />
+            <marker date="1563531008190" expanded="true" signature="711:807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichSHB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="116" column="13" lean-forward="true" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
+          <folding>
+            <marker date="1563767152076" expanded="false" signature="6:70" ph="..." />
+            <marker date="1563767152076" expanded="true" signature="101:6023" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="143:6021" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="233:296" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="326:1684" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="480:593" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="776:881" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="943:1503" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="1586:1674" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="1715:2784" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="1869:1982" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="2044:2603" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="2686:2774" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="2819:4924" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="3073:3214" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="3539:3652" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="3835:3971" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="4033:4627" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="4705:4793" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="4810:4914" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="4961:5757" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="5359:5469" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="5543:5745" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="5789:6015" ph="{...}" />
+            <marker date="1563767152076" expanded="true" signature="5852:6003" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/entity/BlockchainTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1563770468094" expanded="true" signature="31:747" ph="{...}" />
+            <marker date="1563770468094" expanded="true" signature="72:745" ph="{...}" />
+            <marker date="1563770468094" expanded="true" signature="510:607" ph="{...}" />
+            <marker date="1563770468094" expanded="true" signature="643:739" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+          <folding>
+            <marker date="1563771586693" expanded="true" signature="6:97" ph="..." />
+            <marker date="1563771586693" expanded="true" signature="123:2689" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="143:2687" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="310:1626" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="345:1616" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="820:1208" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="1241:1326" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="1446:1602" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="1698:2681" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="1733:2671" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="2130:2539" ph="{...}" />
+            <marker date="1563771586693" expanded="true" signature="2572:2657" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/demo/GiaoDichBlockChain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
+          <folding>
+            <marker date="1563771586745" expanded="true" signature="6:70" ph="..." />
+            <marker date="1563771586745" expanded="true" signature="101:5669" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="150:5667" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="254:324" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="354:1648" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="508:621" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="792:897" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="966:1467" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="1550:1638" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="1679:2696" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="1833:1946" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="2015:2515" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="2598:2686" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="2731:4580" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="2967:3108" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="3324:3437" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="3608:3744" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="3813:4283" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="4361:4449" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="4466:4570" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="4617:5428" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="5046:5156" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="5237:5416" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="5460:5661" ph="{...}" />
+            <marker date="1563771586745" expanded="true" signature="5528:5649" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GiaoDichCSharp/model/BlockchainAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="141" column="62" selection-start-line="141" selection-start-column="62" selection-end-line="141" selection-end-column="62" />
+          <folding>
+            <marker date="1563771757600" expanded="true" signature="6:72" ph="..." />
+            <marker date="1563771757600" expanded="true" signature="104:9797" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="146:9795" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="247:1073" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="689:980" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="778:965" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="1135:1702" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="1813:5014" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="1956:4772" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="2338:2444" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="2627:2738" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="2827:2921" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="3008:3102" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="4598:4726" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="4804:4934" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="5129:8996" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="5272:8750" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="5654:5760" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="5853:5964" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="6782:6890" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="8546:8674" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="8782:8874" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="8894:8986" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="9060:9789" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="9405:9696" ph="{...}" />
+            <marker date="1563771757600" expanded="true" signature="9494:9681" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\bin\Debug\netcoreapp2.2\GiaoDichCSharp.deps.json
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\bin\Debug\netcoreapp2.2\GiaoDichCSharp.runtimeconfig.json
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\bin\Debug\netcoreapp2.2\GiaoDichCSharp.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\bin\Debug\netcoreapp2.2\GiaoDichCSharp.dll
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\bin\Debug\netcoreapp2.2\GiaoDichCSharp.pdb
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.dll
+C:\Users\DELL\RiderProjects\GiaoDichCSharp\GiaoDichCSharp\obj\Debug\netcoreapp2.2\GiaoDichCSharp.pdb
